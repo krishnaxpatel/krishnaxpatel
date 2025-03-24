@@ -17,6 +17,6 @@
 How to reach me:
   Email: krisp0404@gmail.com
   Phone: (908)-442-0848
-  LinkedIn: [LinkedIn] (https://www.linkedin.com/in/krishna-patel-7964a919a/)
+  or message me on LinkedIn: https://www.linkedin.com/in/krishna-patel-7964a919a/
 Pronouns: sher/her
 Fun fact: I have a husky named Shiva and I used to play tennis for 16 years of my life!!
