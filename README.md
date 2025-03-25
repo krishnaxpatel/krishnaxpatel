@@ -2,8 +2,11 @@
 
  Here is my [CV](Resume_KrishnaPatel_Final.pdf)
 
+ [My Google Data Analytics Professional Certificate](https://coursera.org/share/52b26ca203c7fb1b73f22e0730ed1a2d)
+
+ 
  With a background in Biomedical Engineering and working in the medical device industry for the past 3 years, I wanted to expand my knowledge in data analytics.
- I recently completed the Professional Google Data Analytics Certificate through Coursera, where I learned key skills:
+ I recently completed the Google Data Analytics Professional Certificate through Coursera, where I learned key skills:
   
    - Data Collection, Management & Security
    - Data Cleaning
@@ -20,6 +23,10 @@
  
  Recently I have been working on data analytic projects, using what I learned throughout the course, but also gaining more experience throughout the process.
  Please free feel to check them out on my page! 
+
+ [Project 1: Energy Analysis](Project1)
+ 
+ [Project 2: Sleep and Wellness](Project2)
 
 How to reach me:
  
