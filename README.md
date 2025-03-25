@@ -29,6 +29,6 @@ How to reach me:
   
   or message me on LinkedIn: https://www.linkedin.com/in/krishna-patel-7964a919a/
 
-Pronouns: sher/her
+Pronouns: she/her
 
 Fun fact: I have a husky named Shiva and I used to play tennis for 16 years of my life, which is what got me into Biomedical Engineering!
