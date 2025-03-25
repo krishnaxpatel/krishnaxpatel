@@ -18,8 +18,11 @@
  Please free feel to check them out on my page! 
 
 How to reach me:
+ 
   Email: krisp0404@gmail.com
+ 
   Phone: (908)-442-0848
+  
   or message me on LinkedIn: https://www.linkedin.com/in/krishna-patel-7964a919a/
 
 Pronouns: sher/her
