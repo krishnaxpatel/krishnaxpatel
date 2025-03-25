@@ -1,6 +1,10 @@
  Hi, I’m Krishna!
+
+ Here is my [CV](Resume_KrishnaPatel_Final.pdf)
+
  With a background in Biomedical Engineering and working in the medical device industry for the past 3 years, I wanted to expand my knowledge in data analytics.
  I recently completed the Professional Google Data Analytics Certificate through Coursera, where I learned key skills:
+  
    - Data Collection, Management & Security
    - Data Cleaning
    - Data Processing
