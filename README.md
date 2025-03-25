@@ -22,7 +22,7 @@
    - R Programming 
  
  Recently I have been working on data analytic projects, using what I learned throughout the course, but also gaining more experience throughout the process.
- Please free feel to check them out on my page! 
+ Please feel free to check them out on my page
 
  [Project 1: Energy Analysis](Project1)
  
