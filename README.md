@@ -16,17 +16,13 @@
    - Data Storytelling
  
   I also got to work with and learn important tools in the data analytics world!
-   - Spreadsheets (gained more knowledge)
+   - Spreadsheets (advanced)
    - SQL (BigQuery)
    - Tableau
    - R Programming 
  
  Recently I have been working on data analytic projects, using what I learned throughout the course, but also gaining more experience throughout the process.
- Please feel free to check them out on my page
-
- [Project 1: Energy Analysis](Project1)
- 
- [Project 2: Sleep and Wellness](Project2)
+ Please feel free to check them out (pinned below).
 
 How to reach me:
  
