@@ -1,6 +1,6 @@
  Hi, I’m Krishna!
 
- Here is my [CV](KrishnaPatel-Resume.pdf)
+ Here is my [CV](KrishnaPatelResume.pdf)
 
  [My Google Data Analytics Professional Certificate](https://coursera.org/share/52b26ca203c7fb1b73f22e0730ed1a2d)
 
